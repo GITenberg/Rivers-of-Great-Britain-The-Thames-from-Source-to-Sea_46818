@@ -1,4 +1,8 @@
 _repo: Rivers-of-Great-Britain-The-Thames-from-Source-to-Sea_46818
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46818-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46818#Rivers-of-Great-Britain-The-Thames-from-Source-to-Sea
 gutenberg_issued: '2014-09-09'
 gutenberg_type: Text
 identifiers:
